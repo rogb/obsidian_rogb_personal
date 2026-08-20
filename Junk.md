@@ -1,313 +1,343 @@
-The 2017 paper _Attention Is All You Need_ introduced the [Transformer architecture](https://parseur.com/blog/vision-ai-document-processing), the breakthrough behind modern AI systems like ChatGPT, Claude, and Gemini. By replacing slow sequential processing with attention mechanisms, Transformers made AI faster, more parallelizable, and far better at understanding language, images, and documents.
+```
 
-**Key Takeaways:**
+# 💪 10 Strict Chin-Ups — 6-Week Training Schedule
 
-- Transformers process all words at once, not one by one, enabling much faster and more accurate AI.
-- The attention mechanism helps AI understand context and relationships across entire inputs simultaneously.
-- The same Transformer architecture that powers chatbots also drives Vision AI and document processing tools like Parseur.
+**Start:** Monday 24 August 2026
+**Goal:** 10 strict close/neutral-grip chin-ups with my chin clearly above the handles on every rep.
 
-## The 2017 Paper That Made ChatGPT Possible
+## My Standard for a Successful Rep
 
-In 2017, a team of eight researchers at Google published a [research paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) with a bold title: _"Attention Is All You Need."_ At the time, it sounded almost provocative. Most AI systems still relied on older approaches that processed language step by step, one word at a time.
+A rep only counts when I:
 
-But this paper introduced something entirely new: the **Transformer architecture**.
+* Start with my arms extended.
+* Don't swing, kick or kip.
+* Pull myself up under control.
+* Get my **chin clearly above the level of the handles**.
+* Lower myself under control.
 
-The team, Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin, were all working at Google Brain at the time. Many of them have since gone on to found major AI companies of their own, which gives some sense of the calibre of researchers behind this single paper.
+**Starting ability:** approximately 4 strict reps.
 
-Seven years later, Transformers power nearly every major AI breakthrough we use today, including ChatGPT, Claude, Gemini, DALL-E, Whisper, and the Vision AI systems behind document processing platforms like [Parseur](https://parseur.com/features).
+---
 
-This single paper changed how machines understand language, images, documents, and even speech.
+# Week 1 — 24–27 August
 
-If you have ever wondered how modern AI tools can [summarize text](https://parseur.com/blog/text-summarization), answer questions, extract invoice data, or understand complex documents, the answer usually starts with Transformers.
+## Monday 24 August — Strength
 
-In this guide, we explain what problem Transformers solved, how the attention mechanism works in simple terms, why Transformers outperformed older AI architectures, and how Transformers power modern document and Vision AI systems.
+**Chin-ups:** 5 sets × 3 reps
+**Rest:** 2½–3 minutes between sets.
 
-No equations. No computer science degree required. Just practical explanations, real-world examples, and a clear look at the breakthrough that became the foundation of modern AI.
+* [ ] Set 1 — 3 strict reps
+* [ ] Set 2 — 3 strict reps
+* [ ] Set 3 — 3 strict reps
+* [ ] Set 4 — 3 strict reps
+* [ ] Set 5 — 3 strict reps
 
-## How AI Used To Process Language (And Why It Was Slow)
+**Slow negatives:** Use a step to start with chin above the handles, then lower for approximately **5 seconds**.
 
-Before the Transformer architecture changed AI, most language models relied on a class of models called **Recurrent Neural Networks (RNNs)**.
+* [ ] Negatives — Set 1: 3 reps
+* [ ] Negatives — Set 2: 3 reps
 
-RNNs were designed to [process language one word at a time, in sequence](https://aiml.com/what-are-the-advantages-and-disadvantages-of-a-recurrent-neural-network-rnn/). That sounds reasonable at first because humans also read sentences in order. But this approach created major limitations that slowed AI progress for years.
+**Notes:** ________________________________________________
 
-Here is a simple example: "The cat sat on the mat."
+## Tuesday 25 August — Recovery from Chin-Ups
 
-An RNN would process the sentence like this: read "The," process it, store it in memory, then read "cat," process it, remember "The cat," then read "sat," and so on, continuing word by word until the sentence ends.
+No chin-ups today. Train other areas and allow pulling muscles, shoulders and elbows to recover.
 
-Everything happened sequentially. Each new word depended on the previous step finishing first.
+* [ ] No chin-ups
+* [ ] Other gym training completed
 
-That was the core problem.
+## Wednesday 26 August — Volume
 
-Modern GPUs are incredibly powerful because they can process many operations simultaneously. But RNNs could not fully take advantage of that power because they forced the model to move through text step by step, like a person slowly reading a sentence with a flashlight.
+Perform **6 sets × 2 perfect reps**. Rest 90 seconds–2 minutes.
 
-This created a major speed bottleneck: training AI models took days or even weeks, scaling to larger datasets became extremely expensive, long documents were difficult to process efficiently, and real-time applications were harder to build.
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
+* [ ] Set 5 — 2 reps
+* [ ] Set 6 — 2 reps
 
-But speed was not the only issue. RNNs also struggled with memory.
+**Top holds:** Step into the top position and hold chin above handles for **5–10 seconds**.
 
-Imagine this sentence: "The cat, which was sitting on the mat that my grandmother gave me for my birthday last year, was sleeping."
+* [ ] Top hold 1
+* [ ] Top hold 2
+* [ ] Top hold 3
 
-By the time the model reaches "was sleeping," the important subject, "the cat," is now very far away in the sequence.
+## Thursday 27 August — Technique / Easy
 
-This is an example of a [long-range dependency](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008165). As words get farther apart, RNNs have a harder time preserving the connection between them because information must pass through many sequential steps, which makes distant dependencies harder to learn and maintain.
+Perform **4 sets × 2 reps**. Rest approximately 2 minutes. Concentrate entirely on excellent form.
 
-In practice, this meant older AI systems often lost context in long paragraphs, complex documents, technical writing, conversations, and multi-page files.
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
 
-The issue became even more obvious in document AI workflows. An invoice number at the top of a page might need to connect to totals near the bottom. A contract clause might reference terms several paragraphs earlier. Sequential models struggled to reliably maintain these relationships.
+---
 
-Researchers tried improving RNNs with newer architectures like LSTMs and GRUs, but the underlying limitation remained the same: language was still being processed sequentially.
+# Week 2 — 31 August–3 September
 
-That sequential design created a fundamental speed and memory ceiling that modern AI could not scale beyond.
+## Monday 31 August — Strength
 
-Then, in 2017, the Transformer architecture arrived and changed everything.
+**Target:** 4 / 3 / 3 / 3 / 3
 
-## What If We Looked At All Words Simultaneously?
+Only move to this target if Week 1's Monday reps were all clean. Otherwise repeat Week 1.
 
-The breakthrough behind the Transformer architecture was surprisingly simple: what if AI did not process language word by word at all?
+* [ ] Set 1 — 4 reps
+* [ ] Set 2 — 3 reps
+* [ ] Set 3 — 3 reps
+* [ ] Set 4 — 3 reps
+* [ ] Set 5 — 3 reps
+* [ ] Negatives — Set 1: 3 slow reps
+* [ ] Negatives — Set 2: 3 slow reps
 
-Instead of reading sentences sequentially like older RNN models, Transformers analyze all words simultaneously and determine which words matter most to each other.
+**Notes:** ________________________________________________
 
-This idea became known as the [attention mechanism](https://www.ibm.com/think/topics/attention-mechanism). An attention mechanism is a machine learning technique that directs models to focus on the most relevant parts of the input, which is why it is so important in Transformer-based systems.
+## Tuesday 1 September — Recovery
 
-To understand how this works, it helps to think about how humans naturally understand context. Take the word "bank." That word can mean very different things depending on the sentence.
+* [ ] No chin-ups
+* [ ] Other gym training completed
 
-"The bank by the river is steep." Here, "bank" connects to "river" and becomes geographic.
+## Wednesday 2 September — Volume
 
-"The bank approved my loan." Here, "bank" connects to "loan" and becomes financial.
+* [ ] Set 1 — 3 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
+* [ ] Set 5 — 2 reps
+* [ ] Set 6 — 2 reps
+* [ ] Top hold 1 — 5–10 sec
+* [ ] Top hold 2 — 5–10 sec
+* [ ] Top hold 3 — 5–10 sec
 
-Humans instantly understand the difference because our brains automatically connect "bank" to nearby contextual clues. The Transformer attention mechanism works similarly.
+## Thursday 3 September — Technique / Easy
 
-Instead of treating words independently, the model constantly evaluates relationships between words and decides which connections are most important for understanding meaning. The model assigns higher weight to the words that matter most for the current word or task, rather than giving every word equal importance.
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
 
-This becomes especially powerful in longer sentences. According to [IBM](https://www.ibm.com/think/topics/attention-mechanism), the attention mechanism "pays attention to the words that matter most for the next translated word," which improves accuracy and handling of long sequences.
+---
 
-Consider: "The cat, which was sitting on the mat, was sleeping."
+# Week 3 — 7–10 September
 
-Older RNN models often struggled here because "cat" and "sleeping" are separated by many words. But Transformers handle this differently.
+## Monday 7 September — Strength
 
-Using attention, "sleeping" directly attends to "cat," "was" attends to "cat" to understand the subject, and "mat" attends to "sitting" for location context. These connections happen instantly across the entire sentence. Nothing needs to wait for previous words to finish processing.
+**Target:** 4 / 4 / 3 / 3 / 3
 
-A useful analogy is highlighting text while reading. When humans read, we naturally focus on the most relevant words: nouns connected to actions, subjects connected to verbs, references connected to earlier context. Your brain does this automatically and almost instantly. Attention gives AI a similar capability.
+* [ ] Set 1 — 4 reps
+* [ ] Set 2 — 4 reps
+* [ ] Set 3 — 3 reps
+* [ ] Set 4 — 3 reps
+* [ ] Set 5 — 3 reps
+* [ ] Negatives — Set 1: 3 slow reps
+* [ ] Negatives — Set 2: 3 slow reps
 
-Here is the key difference in how each approach processes a 100-word sentence:
+**Notes:** ________________________________________________
 
-**RNN Processing:** Word 1, process, Word 2, process, Word 3, process. Everything happens step by step. A 100-word sentence requires 100 sequential operations.
+## Tuesday 8 September — Recovery
 
-**Transformer Processing:** All words, attention analysis, contextual understanding. Everything happens simultaneously. A 100-word sentence can be processed in parallel.
+* [ ] No chin-ups
+* [ ] Other gym training completed
 
-That parallel processing advantage was enormous. Modern GPUs are built to handle thousands of operations at once. Transformers finally allowed AI systems to fully use that hardware power efficiently.
+## Wednesday 9 September — Volume
 
-The result was dramatically faster training, better long-context understanding, improved scalability, and stronger performance on language tasks.
+* [ ] Set 1 — 3 reps
+* [ ] Set 2 — 3 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
+* [ ] Set 5 — 2 reps
+* [ ] Set 6 — 2 reps
+* [ ] Top hold 1 — 5–10 sec
+* [ ] Top hold 2 — 5–10 sec
+* [ ] Top hold 3 — 5–10 sec
 
-This is why Transformers rapidly replaced older architectures across the AI industry. The same attention mechanism now powers language models like ChatGPT, document AI systems, translation tools, speech recognition, Vision AI platforms, and image generation systems.
+## Thursday 10 September — Technique / Easy
 
-## Breaking Down The Transformer: Four Key Components
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
 
-The Transformer architecture can sound intimidating at first. But the core ideas are actually surprisingly intuitive once you strip away the technical jargon.
+---
 
-At a high level, Transformers rely on four major components working together: self-attention, multi-head attention, positional encoding, and feed-forward networks. Together, these components allow modern AI systems to understand relationships, context, meaning, and structure far more effectively than older AI architectures.
+# Week 4 — 14–17 September
 
-## Component 1: Self-Attention (The Core Innovation)
+## Monday 14 September — Strength
 
-The most important idea in the Transformer architecture is **self-attention**.
+**Target:** 4 / 4 / 4 / 3 / 3
 
-Self-attention allows every word in a sentence to look at every other word and decide which ones matter most. That is the heart of the attention mechanism.
+* [ ] Set 1 — 4 reps
+* [ ] Set 2 — 4 reps
+* [ ] Set 3 — 4 reps
+* [ ] Set 4 — 3 reps
+* [ ] Set 5 — 3 reps
+* [ ] Negatives — Set 1: 3 slow reps
+* [ ] Negatives — Set 2: 3 slow reps
 
-Imagine the sentence: "The cat sat on the mat."
+**Notes:** ________________________________________________
 
-When processing the word "cat," the model does not look only at nearby words. It evaluates the entire sentence simultaneously. Internally, the Transformer asks three questions for every word.
+## Tuesday 15 September — Recovery
 
-**Query:** "What information am I looking for?"
+* [ ] No chin-ups
+* [ ] Other gym training completed
 
-**Key:** "What kind of information do I offer?"
+## Wednesday 16 September — Volume
 
-**Value:** "What actual information do I carry?"
+* [ ] Set 1 — 3 reps
+* [ ] Set 2 — 3 reps
+* [ ] Set 3 — 3 reps
+* [ ] Set 4 — 2 reps
+* [ ] Set 5 — 2 reps
+* [ ] Set 6 — 2 reps
+* [ ] Top hold 1 — 5–10 sec
+* [ ] Top hold 2 — 5–10 sec
+* [ ] Top hold 3 — 5–10 sec
 
-You can think of it like a matchmaking system between words. For the word "cat," the Query asks what relationships matter, the model compares the query against the Keys of every other word, and strong matches receive closer attention.
+## Thursday 17 September — Technique / Easy
 
-So "cat" might strongly attend to "sat" (action relationship) and "mat" (location relationship), and weakly attend to smaller function words like "the" and "on," which still matter but less strongly.
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
 
-The result is that the model creates a richer understanding of "cat," not as an isolated word, but as "the cat that sat on the mat."
+---
 
-Self-attention solved several major problems at once: every word can directly connect to every other word, long-distance relationships are preserved, processing happens in parallel, and context understanding improves dramatically. This is one of the main reasons Transformers rapidly overtook older RNN architectures.
+# Week 5 — 21–24 September
 
-## Component 2: Multi-Head Attention (Multiple Perspectives)
+## Monday 21 September — Strength
 
-One attention mechanism is powerful. But the researchers realized something important: different types of relationships exist inside language. A single attention layer might focus heavily on grammar but miss meaning. So the Transformer architecture introduced **multi-head attention**.
+**Target:** 4 / 4 / 4 / 4 / 3
 
-Instead of using one attention system, Transformers run multiple attention mechanisms simultaneously. These are called attention heads. You can think of them as multiple specialists analyzing the same sentence from different perspectives.
+* [ ] Set 1 — 4 reps
+* [ ] Set 2 — 4 reps
+* [ ] Set 3 — 4 reps
+* [ ] Set 4 — 4 reps
+* [ ] Set 5 — 3 reps
+* [ ] Negatives — Set 1: 3 slow reps
+* [ ] Negatives — Set 2: 3 slow reps
 
-One head might focus on grammar: subjects, verbs, and sentence structure. Another focuses on semantic meaning: "cat" as an animal, "mat" as an object. Another focuses on position: which words appear earlier or later. Another focuses on references: "it" referring to "cat."
+**Notes:** ________________________________________________
 
-A useful analogy is viewing a painting from multiple angles. One angle reveals color. Another reveals texture. Another reveals depth. Together, those perspectives create a fuller understanding. That is exactly how multi-head attention works.
+## Tuesday 22 September — Recovery
 
-This layered understanding is a major reason modern AI systems can generate responses that feel coherent, contextual, and surprisingly human-like.
+* [ ] No chin-ups
+* [ ] Other gym training completed
 
-## Component 3: Positional Encoding (Preserving Word Order)
+## Wednesday 23 September — Volume
 
-There was one major challenge with parallel processing. If Transformers process all words simultaneously, how do they know word order?
+* [ ] Set 1 — 3 reps
+* [ ] Set 2 — 3 reps
+* [ ] Set 3 — 3 reps
+* [ ] Set 4 — 3 reps
+* [ ] Set 5 — 2 reps
+* [ ] Set 6 — 2 reps
+* [ ] Top hold 1 — 5–10 sec
+* [ ] Top hold 2 — 5–10 sec
+* [ ] Top hold 3 — 5–10 sec
 
-Consider: "Dog bites man." and "Man bites dog." These contain the same words but completely different meanings.
+## Thursday 24 September — Technique / Easy
 
-This is where **positional encoding** comes in. Transformers add position information to every word before processing begins. Word 1 receives one positional signal, word 2 receives another, and so on. This allows the model to preserve sequence information while still processing everything in parallel.
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
 
-A simple analogy is timestamps on photos. Without timestamps, you know what happened but not the order. With timestamps, you can reconstruct the timeline. Positional encoding gives Transformers that same sense of order.
+---
 
-This becomes extremely important for sentence structure, meaning, grammar, chronology, and document layout interpretation. Without positional information, language understanding would quickly break down.
+# Week 6 — 28 September–1 October
 
-## Component 4: Feed-Forward Networks (Refining Understanding)
+## Monday 28 September — Strength
 
-After attention gathers context, the Transformer still needs to refine and strengthen its understanding. That is the role of the **feed-forward network**.
+**Target:** 4 / 4 / 4 / 4 / 4
 
-You can think of this step as polishing the interpretation. Attention identifies relationships. Feed-forward layers help transform those relationships into richer internal representations. The model repeatedly improves its understanding of what each word represents in context.
+That's **20 strict reps** across the session — a substantial improvement from Week 1.
 
-This refinement process helps Transformers become better at prediction, reasoning, classification, generation, and summarization. Every layer adds more contextual depth.
+* [ ] Set 1 — 4 reps
+* [ ] Set 2 — 4 reps
+* [ ] Set 3 — 4 reps
+* [ ] Set 4 — 4 reps
+* [ ] Set 5 — 4 reps
+* [ ] Negatives — Set 1: 3 slow reps
+* [ ] Negatives — Set 2: 3 slow reps
 
-## The Complete Transformer Architecture Explained
+**Notes:** ________________________________________________
 
-Now let us put everything together.
+## Tuesday 29 September — Recovery
 
-The original Transformer architecture introduced in _"Attention Is All You Need"_ used an **encoder-decoder structure**. Each half has a distinct job.
+* [ ] No chin-ups
+* [ ] Other gym training completed
 
-### Encoder: Understanding the Input
+## Wednesday 30 September — Volume
 
-The encoder's job is to understand incoming text. It receives the input sentence, applies self-attention to understand relationships between all words, applies feed-forward refinement, and repeats the process multiple times. Each layer builds increasingly rich contextual understanding. By the end, the encoder produces deeply contextual representations of the input, capturing not just what each word means, but how it relates to everything around it.
+* [ ] Set 1 — 3 reps
+* [ ] Set 2 — 3 reps
+* [ ] Set 3 — 3 reps
+* [ ] Set 4 — 3 reps
+* [ ] Set 5 — 3 reps
+* [ ] Set 6 — 2 reps
+* [ ] Top hold 1 — 5–10 sec
+* [ ] Top hold 2 — 5–10 sec
+* [ ] Top hold 3 — 5–10 sec
 
-### Decoder: Generating the Output
+## Thursday 1 October — Technique / Easy
 
-The decoder's job is to generate output text, one token at a time, through a process called **auto-regressive decoding**. This works differently from the encoder. Where the encoder processes all input simultaneously, the decoder generates output sequentially.
+* [ ] Set 1 — 2 reps
+* [ ] Set 2 — 2 reps
+* [ ] Set 3 — 2 reps
+* [ ] Set 4 — 2 reps
 
-The decoder achieves this through three mechanisms working together.
+---
 
-**Masked self-attention:** When generating each new word, the decoder can only attend to words it has already generated, not future ones. This masking prevents the model from "cheating" during training by looking ahead at what it is supposed to produce.
+# ⭐ Progression Rule
 
-**Cross-attention:** The decoder also attends to the encoder's representations of the input. This is the bridge between understanding and generation. For a translation task, the decoder looks at the full encoded source sentence to decide what word to generate next. For question answering, it attends to the encoded context to produce a relevant answer.
+**Do not increase the following week's target unless every scheduled rep was performed properly.**
 
-**Feed-forward layers:** The same refinement step used in the encoder, which deepens the decoder's understanding before generating each token.
+If I don't get my chin clearly above the handles, that rep **doesn't count**.
 
-In practice, output generation works like this: the decoder starts with a special "begin" token, attends to the encoder output and that token, generates the first output word, then uses that word as new input. It then attends to the encoder output and all previously generated words, generates the next word, and repeats the cycle until a special "end" token is generated.
+If I cannot complete a week's target cleanly:
 
-This is the same fundamental process that powers modern AI systems today. When you ask ChatGPT or Claude a question, a decoder generates each word of the response one at a time, attending to your full prompt plus everything it has generated so far.
+**Repeat that level the following week.**
 
-The 2017 paper used an encoder-decoder structure specifically for machine translation. Many modern systems, including GPT models, use decoder-only architectures. But the auto-regressive generation principle introduced in the original paper remains central to how large language models work today.
+There is absolutely no need to rush.
 
-## Three Reasons Transformers Beat RNNs
+---
 
-When the Transformer architecture was introduced in _Attention Is All You Need_, it did not just improve existing AI models. It fundamentally changed how machines process language. Compared to older Recurrent Neural Networks (RNNs), Transformers were faster, more parallelizable, and far better at understanding context.
+# 📊 Progress Record
 
-### 1. Parallel Processing Makes Transformers Much Faster
+* [ ] **5 strict consecutive reps**
+* [ ] **6 strict consecutive reps**
+* [ ] **7 strict consecutive reps**
+* [ ] **8 strict consecutive reps**
+* [ ] **9 strict consecutive reps**
+* [ ] **10 STRICT CHIN-UPS! 🎯**
 
-Before Transformers, language models processed text one word at a time. With an RNN, each word depended on the previous one finishing first. That created a major speed bottleneck, especially because modern GPUs are designed for parallel processing and could not be fully utilized with sequential models.
+## Notes
 
-Transformers solved this by processing all words simultaneously using the attention mechanism. The result was dramatic. The original paper demonstrated this clearly: earlier RNN-based translation systems often required weeks of training, while the Transformer-based model achieved state-of-the-art results in roughly 12 hours on modern hardware. Training became 10 to 100 times faster, GPUs could be fully utilized, and larger datasets became practical to train on.
+**Week 1:** ________________________________________________
 
-This speed improvement is one reason large AI systems like ChatGPT and Gemini became possible.
+**Week 2:** ________________________________________________
 
-### 2. Transformers Understand Long-Range Context Better
+**Week 3:** ________________________________________________
 
-RNNs also struggled with long-range dependencies, connecting words that are far apart in a sentence. Consider: "The cat, which had been sitting near the window for most of the afternoon while watching birds outside, was sleeping."
+**Week 4:** ________________________________________________
 
-By the time an RNN reaches "was sleeping," the connection to "the cat" has weakened because the information passed through dozens of intermediate words. At each step, some context gets diluted or forgotten.
+**Week 5:** ________________________________________________
 
-Transformers use attention to create direct connections between related words. In the sentence above, "sleeping" can directly attend to "cat," "window" can connect to "watching," and "birds" can influence surrounding context instantly. No matter how far apart the words are, the relationship remains strong.
+**Week 6:** ________________________________________________
 
-This was a massive breakthrough because language depends heavily on context spread across long passages. It also made Transformers far more effective for long documents, conversations, legal contracts, technical documentation, and Vision AI and document processing. Today's large language models can process thousands, or even hundreds of thousands, of tokens in a single context window because of this architecture.
+---
 
-### 3. Transformers Scale Extremely Well
+## Remember
 
-The final reason Transformers won is scalability. As AI researchers increased model size, RNNs became increasingly inefficient. Transformers handled scaling much more effectively.
+**Quality beats quantity.**
 
-Modern AI systems improve dramatically when you increase training data, model size, context length, and compute power. Transformers were uniquely suited for this. As sequences get longer, RNNs face increasing processing time and memory limitations. Transformers can handle long sequences efficiently, parallelize workloads across GPUs, train on enormous datasets, and support massive parameter counts.
+I'd rather do **3 perfect reps** than 5 reps where the last two don't clear the handles.
 
-That scalability enabled GPT-4, Claude, DALL-E, modern Vision AI systems, and advanced document understanding tools. It also made AI economically viable at scale.
+The objective isn't to *almost* do 10 chin-ups.
 
-The original Transformer paper delivered better performance with lower computational cost. For machine translation, the previous best BLEU score was 26.3. The Transformer achieved 28.4, while also being dramatically faster to train and cheaper to run. Better accuracy, faster training, lower cost, and greater scalability: that combination is why the Transformer architecture rapidly replaced RNNs across nearly every major AI field.
+The objective is:
 
-## From Research Paper To ChatGPT: The Transformer Revolution
+### **10 reps. Full extension. Chin above the handles. Every single time. 💪**
 
-The _Attention Is All You Need_ paper did not just improve machine translation. It triggered an AI revolution that completely changed how modern artificial intelligence systems are built.
 
-### 2018 to 2019: Language Models Explode
-
-The first major wave of Transformer adoption came through large language models.
-
-**GPT (OpenAI):** OpenAI built GPT using the Transformer decoder architecture introduced in the original paper. The idea was to pre-train a Transformer on massive amounts of internet text, let it learn grammar, facts, reasoning patterns, and context, then fine-tune it for downstream tasks. Each generation scaled larger: GPT-1 at 117 million parameters, GPT-2 at 1.5 billion, GPT-3 at 175 billion.
-
-**BERT (Google):** Google took a different approach with BERT (Bidirectional Encoder Representations from Transformers). Instead of predicting text forward like GPT, BERT looks at words in both directions simultaneously using Transformer encoders. This massively improved search relevance, question answering, and natural language understanding. Google later confirmed that BERT impacted a significant portion of English search queries, helping Search better understand context and intent.
-
-### 2020: Transformers Learn to See
-
-Researchers soon realized attention mechanisms could work on images too. This led to the creation of Vision Transformers (ViTs).
-
-Instead of treating an image as pixels processed sequentially, Vision Transformers split the image into small patches, treat each patch like a word, and let patches attend to every other patch. The Transformer then learns spatial relationships, object positioning, visual context, and pattern recognition. Vision Transformers quickly matched and in many cases surpassed traditional computer vision models. Transformers were no longer just for language. They became a universal AI architecture.
-
-### 2022 to 2024: The ChatGPT Era
-
-Modern AI assistants are all built on Transformer foundations. These systems scaled the original 2017 architecture to extraordinary levels: hundreds of billions of parameters, internet-scale training datasets, massive GPU clusters, and long-context memory windows.
-
-**Claude (Anthropic)** extended Transformer capabilities with constitutional AI alignment, extremely long context windows, and improved reasoning and document understanding.
-
-**Gemini (Google)** expanded Transformers into fully multimodal systems that handle text, images, audio, and video, all processed through attention mechanisms.
-
-### 2023 to Present: The Rise of Multimodal AI
-
-The next major leap was combining multiple data types into one unified model. Systems like GPT-4 Vision, Claude 3.5, and Gemini can now understand text and images together, screenshots, PDFs, diagrams, documents, and charts.
-
-This is possible because Transformers can learn relationships across modalities, not just within text. The attention mechanism now connects text tokens to image patches, visual regions to words, and layout structures to semantic meaning. For example, in an invoice, "ACME Corp" attends to the logo nearby, table rows attend to column headers, totals attend to line item amounts, and dates attend to invoice metadata sections.
-
-This is also how modern Vision AI systems work. [Parseur](https://parseur.com/features) uses Transformer-based Vision AI to process invoices, receipts, forms, and contracts by understanding both text and document layout simultaneously.
-
-## How Attention Powers Document AI
-
-Transformers did not just change chatbots and language models. They also transformed how AI processes documents.
-
-Modern business documents are far more than plain text. Invoices, receipts, contracts, forms, and reports contain layers of visual structure that traditional [OCR](https://parseur.com/blog/what-is-ocr) systems often struggle to interpret correctly. Documents include headers and footers, tables and line items, logos, signatures, and stamps, spatial relationships between fields, multi-column layouts, and labels connected to values.
-
-Traditional OCR systems mainly read documents character by character or line by line. They can extract text, but they usually struggle to understand how different elements relate to each other on the page. For a deeper look at this difference, see [Vision AI vs OCR](https://parseur.com/blog/vision-ai-vs-ocr).
-
-Transformer-based Vision AI works differently. Instead of processing one section at a time, Transformers analyze the entire document simultaneously. The attention mechanism helps the model understand both the text and the visual structure of the page at the same time. This means the AI can learn which labels belong to which values, how tables are organized, which totals relate to which line items, how headers connect to sections below, and where important fields are located based on the layout.
-
-### Real Example: Invoice Processing
-
-Imagine an invoice with a vendor name, invoice number, a line items table with quantities and prices, and a total at the bottom.
-
-A Transformer-based Vision AI model does not just read the words independently. It learns the relationships between them through attention.
-
-**Spatial relationships:** The model learns that the vendor name near the top is the supplier, the invoice number is an identifier, and the table below contains transactional data. Position and layout become part of the meaning.
-
-**Hierarchical structure:** Attention helps the AI understand that the "Line Items" heading acts as a section header, table rows belong together, columns define categories like quantity and price, and the "Total" field summarizes the table values.
-
-**Validation and cross-checking:** The attention mechanism can connect individual line item prices, quantities, and the final total. This allows the system to validate whether the math adds up, whether required fields are present, and whether values are logically connected.
-
-**Context understanding:** "10" inside the Qty column becomes a quantity. "$100" inside the Price column becomes a monetary value. The surrounding structure provides meaning.
-
-### How Parseur Uses Transformer-Based Vision AI
-
-[Parseur](https://parseur.com/features) uses Transformer-based Vision AI models to process complex business documents more intelligently. When users upload invoices, receipts, purchase orders, or contracts, the system analyzes the full document visually, understands layout and structure, extracts key fields automatically, identifies relationships between document elements, and converts unstructured files into clean, structured data.
-
-The same attention mechanism introduced in _Attention Is All You Need_ now powers modern document automation workflows.
-
-## What You Need To Remember
-
-The biggest breakthrough introduced in _Attention Is All You Need_ was surprisingly simple: instead of processing words one by one, Transformers process all words simultaneously using attention.
-
-That single shift changed the trajectory of modern AI. Before Transformers, AI models struggled with slow training, memory limitations, and long-range understanding. Transformers solved these problems by allowing every word to directly attend to every other word in a sentence at the same time.
-
-The result was a massive leap forward in both speed and capability: 10 to 100 times faster training through parallel processing, better contextual understanding with direct connections between distant words, improved scalability for long documents and massive datasets, and greater versatility across text, images, audio, and document processing.
-
-This architecture quickly became the foundation for nearly every major AI breakthrough after 2018, directly enabling OpenAI's GPT models and ChatGPT, Anthropic's Claude, Google Gemini, image generation systems like DALL-E and Stable Diffusion, and modern Vision AI and Document AI systems.
-
-At its core, attention is about relationships. The model learns which words matter most, which elements connect, how context changes meaning, and how to process information in parallel. It is a simple concept with an enormous impact.
-
-The same attention mechanism that helps AI understand language also helps Vision AI understand documents. In platforms like [Parseur](https://parseur.com/features), Transformer-based Vision AI models use attention to connect labels with values, understand tables and layouts, extract structured information, and validate relationships across documents. Whether it is a sentence, an invoice, or a contract, the principle is the same: AI becomes more powerful when it understands relationships, not just text.
-
-## The Foundation of Modern AI
-
-When the Google researchers published _Attention Is All You Need_ in 2017, they introduced a new architecture for machine translation research. Today, it powers nearly every major AI system we use.
-
-Transformers became the foundation for language models that write and reason, vision models that analyze images, speech systems that transcribe audio, document AI that extracts structured data, and multimodal AI systems that combine text, images, and audio.
-
-The core innovation was surprisingly simple: replace slow sequential processing with parallel attention. Instead of reading information one step at a time, Transformers learn relationships across entire inputs simultaneously. That change unlocked dramatic improvements in speed, scalability, and contextual understanding, and ultimately made modern AI possible.
-
-And Transformers are still evolving. Researchers are now scaling models to trillions of parameters, extending context windows to millions of tokens, applying Transformers to fields like biology, robotics, and climate science, and building faster and more efficient architectures.
-
-At [Parseur](https://parseur.com/features), Transformer-based Vision AI helps businesses automatically extract data from invoices, receipts, contracts, and other complex documents. The same attention mechanism that powers ChatGPT also powers modern document processing.
+```
