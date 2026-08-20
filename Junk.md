@@ -2,18 +2,18 @@
 
 # 💪 10 Strict Chin-Ups — 6-Week Training Schedule
 
-**Start:** Monday 24 August 2026
+**Start:** Monday 24 August 2026  
 **Goal:** 10 strict close/neutral-grip chin-ups with my chin clearly above the handles on every rep.
 
 ## My Standard for a Successful Rep
 
 A rep only counts when I:
 
-* Start with my arms extended.
-* Don't swing, kick or kip.
-* Pull myself up under control.
-* Get my **chin clearly above the level of the handles**.
-* Lower myself under control.
+- Start with my arms extended
+- Don't swing, kick or kip
+- Pull myself up under control
+- Get my **chin clearly above the level of the handles**
+- Lower myself under control
 
 **Starting ability:** approximately 4 strict reps.
 
@@ -23,54 +23,64 @@ A rep only counts when I:
 
 ## Monday 24 August — Strength
 
-**Chin-ups:** 5 sets × 3 reps
+**Chin-ups:** 5 sets × 3 reps  
 **Rest:** 2½–3 minutes between sets.
 
-* [ ] Set 1 — 3 strict reps
-* [ ] Set 2 — 3 strict reps
-* [ ] Set 3 — 3 strict reps
-* [ ] Set 4 — 3 strict reps
-* [ ] Set 5 — 3 strict reps
+- [ ] Set 1 — 3 strict reps
+- [ ] Set 2 — 3 strict reps
+- [ ] Set 3 — 3 strict reps
+- [ ] Set 4 — 3 strict reps
+- [ ] Set 5 — 3 strict reps
 
 **Slow negatives:** Use a step to start with chin above the handles, then lower for approximately **5 seconds**.
 
-* [ ] Negatives — Set 1: 3 reps
-* [ ] Negatives — Set 2: 3 reps
+- [ ] Negatives — Set 1: 3 reps
+- [ ] Negatives — Set 2: 3 reps
 
-**Notes:** ________________________________________________
+**Notes:** 
 
-## Tuesday 25 August — Recovery from Chin-Ups
+---
 
-No chin-ups today. Train other areas and allow pulling muscles, shoulders and elbows to recover.
+## Tuesday 25 August — Recovery
 
-* [ ] No chin-ups
-* [ ] Other gym training completed
+**No chin-ups today.** Train other areas and allow pulling muscles, shoulders and elbows to recover.
+
+- [ ] No chin-ups
+- [ ] Other gym training completed
+
+---
 
 ## Wednesday 26 August — Volume
 
-Perform **6 sets × 2 perfect reps**. Rest 90 seconds–2 minutes.
+**Chin-ups:** 6 sets × 2 reps  
+**Rest:** 90 seconds–2 minutes.
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
-* [ ] Set 5 — 2 reps
-* [ ] Set 6 — 2 reps
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
+- [ ] Set 5 — 2 reps
+- [ ] Set 6 — 2 reps
 
 **Top holds:** Step into the top position and hold chin above handles for **5–10 seconds**.
 
-* [ ] Top hold 1
-* [ ] Top hold 2
-* [ ] Top hold 3
+- [ ] Top hold 1
+- [ ] Top hold 2
+- [ ] Top hold 3
+
+---
 
 ## Thursday 27 August — Technique / Easy
 
-Perform **4 sets × 2 reps**. Rest approximately 2 minutes. Concentrate entirely on excellent form.
+**Chin-ups:** 4 sets × 2 reps  
+**Rest:** approximately 2 minutes.
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
+Concentrate on excellent form.
+
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
 
 ---
 
@@ -78,43 +88,56 @@ Perform **4 sets × 2 reps**. Rest approximately 2 minutes. Concentrate entirely
 
 ## Monday 31 August — Strength
 
-**Target:** 4 / 3 / 3 / 3 / 3
+**Target:** 4 / 3 / 3 / 3 / 3  
+**Rest:** 2½–3 minutes between sets.
 
 Only move to this target if Week 1's Monday reps were all clean. Otherwise repeat Week 1.
 
-* [ ] Set 1 — 4 reps
-* [ ] Set 2 — 3 reps
-* [ ] Set 3 — 3 reps
-* [ ] Set 4 — 3 reps
-* [ ] Set 5 — 3 reps
-* [ ] Negatives — Set 1: 3 slow reps
-* [ ] Negatives — Set 2: 3 slow reps
+- [ ] Set 1 — 4 reps
+- [ ] Set 2 — 3 reps
+- [ ] Set 3 — 3 reps
+- [ ] Set 4 — 3 reps
+- [ ] Set 5 — 3 reps
 
-**Notes:** ________________________________________________
+**Slow negatives:**
+
+- [ ] Negatives — Set 1: 3 slow reps
+- [ ] Negatives — Set 2: 3 slow reps
+
+**Notes:**
+
+---
 
 ## Tuesday 1 September — Recovery
 
-* [ ] No chin-ups
-* [ ] Other gym training completed
+- [ ] No chin-ups
+- [ ] Other gym training completed
+
+---
 
 ## Wednesday 2 September — Volume
 
-* [ ] Set 1 — 3 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
-* [ ] Set 5 — 2 reps
-* [ ] Set 6 — 2 reps
-* [ ] Top hold 1 — 5–10 sec
-* [ ] Top hold 2 — 5–10 sec
-* [ ] Top hold 3 — 5–10 sec
+- [ ] Set 1 — 3 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
+- [ ] Set 5 — 2 reps
+- [ ] Set 6 — 2 reps
+
+**Top holds:**
+
+- [ ] Top hold 1 — 5–10 sec
+- [ ] Top hold 2 — 5–10 sec
+- [ ] Top hold 3 — 5–10 sec
+
+---
 
 ## Thursday 3 September — Technique / Easy
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
 
 ---
 
@@ -122,41 +145,54 @@ Only move to this target if Week 1's Monday reps were all clean. Otherwise repea
 
 ## Monday 7 September — Strength
 
-**Target:** 4 / 4 / 3 / 3 / 3
+**Target:** 4 / 4 / 3 / 3 / 3  
+**Rest:** 2½–3 minutes between sets.
 
-* [ ] Set 1 — 4 reps
-* [ ] Set 2 — 4 reps
-* [ ] Set 3 — 3 reps
-* [ ] Set 4 — 3 reps
-* [ ] Set 5 — 3 reps
-* [ ] Negatives — Set 1: 3 slow reps
-* [ ] Negatives — Set 2: 3 slow reps
+- [ ] Set 1 — 4 reps
+- [ ] Set 2 — 4 reps
+- [ ] Set 3 — 3 reps
+- [ ] Set 4 — 3 reps
+- [ ] Set 5 — 3 reps
 
-**Notes:** ________________________________________________
+**Slow negatives:**
+
+- [ ] Negatives — Set 1: 3 slow reps
+- [ ] Negatives — Set 2: 3 slow reps
+
+**Notes:**
+
+---
 
 ## Tuesday 8 September — Recovery
 
-* [ ] No chin-ups
-* [ ] Other gym training completed
+- [ ] No chin-ups
+- [ ] Other gym training completed
+
+---
 
 ## Wednesday 9 September — Volume
 
-* [ ] Set 1 — 3 reps
-* [ ] Set 2 — 3 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
-* [ ] Set 5 — 2 reps
-* [ ] Set 6 — 2 reps
-* [ ] Top hold 1 — 5–10 sec
-* [ ] Top hold 2 — 5–10 sec
-* [ ] Top hold 3 — 5–10 sec
+- [ ] Set 1 — 3 reps
+- [ ] Set 2 — 3 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
+- [ ] Set 5 — 2 reps
+- [ ] Set 6 — 2 reps
+
+**Top holds:**
+
+- [ ] Top hold 1 — 5–10 sec
+- [ ] Top hold 2 — 5–10 sec
+- [ ] Top hold 3 — 5–10 sec
+
+---
 
 ## Thursday 10 September — Technique / Easy
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
 
 ---
 
@@ -164,41 +200,54 @@ Only move to this target if Week 1's Monday reps were all clean. Otherwise repea
 
 ## Monday 14 September — Strength
 
-**Target:** 4 / 4 / 4 / 3 / 3
+**Target:** 4 / 4 / 4 / 3 / 3  
+**Rest:** 2½–3 minutes between sets.
 
-* [ ] Set 1 — 4 reps
-* [ ] Set 2 — 4 reps
-* [ ] Set 3 — 4 reps
-* [ ] Set 4 — 3 reps
-* [ ] Set 5 — 3 reps
-* [ ] Negatives — Set 1: 3 slow reps
-* [ ] Negatives — Set 2: 3 slow reps
+- [ ] Set 1 — 4 reps
+- [ ] Set 2 — 4 reps
+- [ ] Set 3 — 4 reps
+- [ ] Set 4 — 3 reps
+- [ ] Set 5 — 3 reps
 
-**Notes:** ________________________________________________
+**Slow negatives:**
+
+- [ ] Negatives — Set 1: 3 slow reps
+- [ ] Negatives — Set 2: 3 slow reps
+
+**Notes:**
+
+---
 
 ## Tuesday 15 September — Recovery
 
-* [ ] No chin-ups
-* [ ] Other gym training completed
+- [ ] No chin-ups
+- [ ] Other gym training completed
+
+---
 
 ## Wednesday 16 September — Volume
 
-* [ ] Set 1 — 3 reps
-* [ ] Set 2 — 3 reps
-* [ ] Set 3 — 3 reps
-* [ ] Set 4 — 2 reps
-* [ ] Set 5 — 2 reps
-* [ ] Set 6 — 2 reps
-* [ ] Top hold 1 — 5–10 sec
-* [ ] Top hold 2 — 5–10 sec
-* [ ] Top hold 3 — 5–10 sec
+- [ ] Set 1 — 3 reps
+- [ ] Set 2 — 3 reps
+- [ ] Set 3 — 3 reps
+- [ ] Set 4 — 2 reps
+- [ ] Set 5 — 2 reps
+- [ ] Set 6 — 2 reps
+
+**Top holds:**
+
+- [ ] Top hold 1 — 5–10 sec
+- [ ] Top hold 2 — 5–10 sec
+- [ ] Top hold 3 — 5–10 sec
+
+---
 
 ## Thursday 17 September — Technique / Easy
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
 
 ---
 
@@ -206,41 +255,54 @@ Only move to this target if Week 1's Monday reps were all clean. Otherwise repea
 
 ## Monday 21 September — Strength
 
-**Target:** 4 / 4 / 4 / 4 / 3
+**Target:** 4 / 4 / 4 / 4 / 3  
+**Rest:** 2½–3 minutes between sets.
 
-* [ ] Set 1 — 4 reps
-* [ ] Set 2 — 4 reps
-* [ ] Set 3 — 4 reps
-* [ ] Set 4 — 4 reps
-* [ ] Set 5 — 3 reps
-* [ ] Negatives — Set 1: 3 slow reps
-* [ ] Negatives — Set 2: 3 slow reps
+- [ ] Set 1 — 4 reps
+- [ ] Set 2 — 4 reps
+- [ ] Set 3 — 4 reps
+- [ ] Set 4 — 4 reps
+- [ ] Set 5 — 3 reps
 
-**Notes:** ________________________________________________
+**Slow negatives:**
+
+- [ ] Negatives — Set 1: 3 slow reps
+- [ ] Negatives — Set 2: 3 slow reps
+
+**Notes:**
+
+---
 
 ## Tuesday 22 September — Recovery
 
-* [ ] No chin-ups
-* [ ] Other gym training completed
+- [ ] No chin-ups
+- [ ] Other gym training completed
+
+---
 
 ## Wednesday 23 September — Volume
 
-* [ ] Set 1 — 3 reps
-* [ ] Set 2 — 3 reps
-* [ ] Set 3 — 3 reps
-* [ ] Set 4 — 3 reps
-* [ ] Set 5 — 2 reps
-* [ ] Set 6 — 2 reps
-* [ ] Top hold 1 — 5–10 sec
-* [ ] Top hold 2 — 5–10 sec
-* [ ] Top hold 3 — 5–10 sec
+- [ ] Set 1 — 3 reps
+- [ ] Set 2 — 3 reps
+- [ ] Set 3 — 3 reps
+- [ ] Set 4 — 3 reps
+- [ ] Set 5 — 2 reps
+- [ ] Set 6 — 2 reps
+
+**Top holds:**
+
+- [ ] Top hold 1 — 5–10 sec
+- [ ] Top hold 2 — 5–10 sec
+- [ ] Top hold 3 — 5–10 sec
+
+---
 
 ## Thursday 24 September — Technique / Easy
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
 
 ---
 
@@ -248,43 +310,56 @@ Only move to this target if Week 1's Monday reps were all clean. Otherwise repea
 
 ## Monday 28 September — Strength
 
-**Target:** 4 / 4 / 4 / 4 / 4
+**Target:** 4 / 4 / 4 / 4 / 4  
+**Rest:** 2½–3 minutes between sets.
 
-That's **20 strict reps** across the session — a substantial improvement from Week 1.
+That's **20 strict reps** across the session.
 
-* [ ] Set 1 — 4 reps
-* [ ] Set 2 — 4 reps
-* [ ] Set 3 — 4 reps
-* [ ] Set 4 — 4 reps
-* [ ] Set 5 — 4 reps
-* [ ] Negatives — Set 1: 3 slow reps
-* [ ] Negatives — Set 2: 3 slow reps
+- [ ] Set 1 — 4 reps
+- [ ] Set 2 — 4 reps
+- [ ] Set 3 — 4 reps
+- [ ] Set 4 — 4 reps
+- [ ] Set 5 — 4 reps
 
-**Notes:** ________________________________________________
+**Slow negatives:**
+
+- [ ] Negatives — Set 1: 3 slow reps
+- [ ] Negatives — Set 2: 3 slow reps
+
+**Notes:**
+
+---
 
 ## Tuesday 29 September — Recovery
 
-* [ ] No chin-ups
-* [ ] Other gym training completed
+- [ ] No chin-ups
+- [ ] Other gym training completed
+
+---
 
 ## Wednesday 30 September — Volume
 
-* [ ] Set 1 — 3 reps
-* [ ] Set 2 — 3 reps
-* [ ] Set 3 — 3 reps
-* [ ] Set 4 — 3 reps
-* [ ] Set 5 — 3 reps
-* [ ] Set 6 — 2 reps
-* [ ] Top hold 1 — 5–10 sec
-* [ ] Top hold 2 — 5–10 sec
-* [ ] Top hold 3 — 5–10 sec
+- [ ] Set 1 — 3 reps
+- [ ] Set 2 — 3 reps
+- [ ] Set 3 — 3 reps
+- [ ] Set 4 — 3 reps
+- [ ] Set 5 — 3 reps
+- [ ] Set 6 — 2 reps
+
+**Top holds:**
+
+- [ ] Top hold 1 — 5–10 sec
+- [ ] Top hold 2 — 5–10 sec
+- [ ] Top hold 3 — 5–10 sec
+
+---
 
 ## Thursday 1 October — Technique / Easy
 
-* [ ] Set 1 — 2 reps
-* [ ] Set 2 — 2 reps
-* [ ] Set 3 — 2 reps
-* [ ] Set 4 — 2 reps
+- [ ] Set 1 — 2 reps
+- [ ] Set 2 — 2 reps
+- [ ] Set 3 — 2 reps
+- [ ] Set 4 — 2 reps
 
 ---
 
@@ -292,42 +367,50 @@ That's **20 strict reps** across the session — a substantial improvement from 
 
 **Do not increase the following week's target unless every scheduled rep was performed properly.**
 
-If I don't get my chin clearly above the handles, that rep **doesn't count**.
+If my chin doesn't clearly get above the handles, that rep **doesn't count**.
 
 If I cannot complete a week's target cleanly:
 
-**Repeat that level the following week.**
+> **Repeat that level the following week.**
 
-There is absolutely no need to rush.
-
----
-
-# 📊 Progress Record
-
-* [ ] **5 strict consecutive reps**
-* [ ] **6 strict consecutive reps**
-* [ ] **7 strict consecutive reps**
-* [ ] **8 strict consecutive reps**
-* [ ] **9 strict consecutive reps**
-* [ ] **10 STRICT CHIN-UPS! 🎯**
-
-## Notes
-
-**Week 1:** ________________________________________________
-
-**Week 2:** ________________________________________________
-
-**Week 3:** ________________________________________________
-
-**Week 4:** ________________________________________________
-
-**Week 5:** ________________________________________________
-
-**Week 6:** ________________________________________________
+There is no need to rush.
 
 ---
 
-## Remember
+# 🎯 Progress Milestones
+
+- [ ] 5 strict consecutive reps
+- [ ] 6 strict consecutive reps
+- [ ] 7 strict consecutive reps
+- [ ] 8 strict consecutive reps
+- [ ] 9 strict consecutive reps
+- [ ] **10 STRICT CONSECUTIVE CHIN-UPS! 🎯**
+
+---
+
+# 📝 Weekly Notes
+
+### Week 1
+-
+
+### Week 2
+-
+
+### Week 3
+-
+
+### Week 4
+-
+
+### Week 5
+-
+
+### Week 6
+-
+
+---
+
+# Remember
 
 **Quality beats quantity.**
 
@@ -335,9 +418,6 @@ I'd rather do **3 perfect reps** than 5 reps where the last two don't clear the 
 
 The objective isn't to *almost* do 10 chin-ups.
 
-The objective is:
-
-### **10 reps. Full extension. Chin above the handles. Every single time. 💪**
-
+## 10 reps. Full extension. Chin above the handles. Every single time. 💪
 
 ```
